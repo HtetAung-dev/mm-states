@@ -1,0 +1,152 @@
+[
+  {
+    "id": "01",
+    "name": "Kachin",
+    "mm_name": "ကချင်",
+    "capital": "Myitkyina",
+    "postal_code_prefix": "01",
+    "type": "State",
+    "area_sq_km": 89041,
+    "population": 1689000
+  },
+  {
+    "id": "02",
+    "name": "Kayah",
+    "mm_name": "ကယား",
+    "capital": "Loikaw",
+    "postal_code_prefix": "02",
+    "type": "State",
+    "area_sq_km": 11733,
+    "population": 286600
+  },
+  {
+    "id": "03",
+    "name": "Kayin",
+    "mm_name": "ကရင်",
+    "capital": "Hpa-an",
+    "postal_code_prefix": "03",
+    "type": "State",
+    "area_sq_km": 30383,
+    "population": 1574000
+  },
+  {
+    "id": "04",
+    "name": "Chin",
+    "mm_name": "ချင်း",
+    "capital": "Hakha",
+    "postal_code_prefix": "04",
+    "type": "State",
+    "area_sq_km": 36019,
+    "population": 478800
+  },
+  {
+    "id": "05",
+    "name": "Sagaing",
+    "mm_name": "စစ်ကိုင်း",
+    "capital": "Sagaing",
+    "postal_code_prefix": "05",
+    "type": "Region",
+    "area_sq_km": 94625,
+    "population": 5325000
+  },
+  {
+    "id": "06",
+    "name": "Tanintharyi",
+    "mm_name": "တနင်္သာရီ",
+    "capital": "Dawei",
+    "postal_code_prefix": "06",
+    "type": "Region",
+    "area_sq_km": 43343,
+    "population": 1408400
+  },
+  {
+    "id": "07",
+    "name": "Bago",
+    "mm_name": "ပဲခူး",
+    "capital": "Bago",
+    "postal_code_prefix": "07",
+    "type": "Region",
+    "area_sq_km": 39404,
+    "population": 4867000
+  },
+  {
+    "id": "08",
+    "name": "Magway",
+    "mm_name": "မကွေး",
+    "capital": "Magway",
+    "postal_code_prefix": "08",
+    "type": "Region",
+    "area_sq_km": 44820,
+    "population": 3917000
+  },
+  {
+    "id": "09",
+    "name": "Mandalay",
+    "mm_name": "မန္တလေး",
+    "capital": "Mandalay",
+    "postal_code_prefix": "09",
+    "type": "Region",
+    "area_sq_km": 37024,
+    "population": 6166000
+  },
+  {
+    "id": "10",
+    "name": "Mon",
+    "mm_name": "မွန်",
+    "capital": "Mawlamyine",
+    "postal_code_prefix": "10",
+    "type": "State",
+    "area_sq_km": 12297,
+    "population": 2054000
+  },
+  {
+    "id": "11",
+    "name": "Rakhine",
+    "mm_name": "ရခိုင်",
+    "capital": "Sittwe",
+    "postal_code_prefix": "11",
+    "type": "State",
+    "area_sq_km": 36778,
+    "population": 3188000
+  },
+  {
+    "id": "12",
+    "name": "Yangon",
+    "mm_name": "ရန်ကုန်",
+    "capital": "Yangon",
+    "postal_code_prefix": "12",
+    "type": "Region",
+    "area_sq_km": 10171,
+    "population": 7360000
+  },
+  {
+    "id": "13",
+    "name": "Shan",
+    "mm_name": "ရှမ်း",
+    "capital": "Taunggyi",
+    "postal_code_prefix": "13",
+    "type": "State",
+    "area_sq_km": 155801,
+    "population": 5824000
+  },
+  {
+    "id": "14",
+    "name": "Ayeyarwady",
+    "mm_name": "ဧရာဝတီ",
+    "capital": "Pathein",
+    "postal_code_prefix": "14",
+    "type": "Region",
+    "area_sq_km": 35138,
+    "population": 6185000
+  },
+  {
+    "id": "15",
+    "name": "Naypyidaw",
+    "mm_name": "နေပြည်တော်",
+    "capital": "Naypyidaw",
+    "postal_code_prefix": "15",
+    "type": "Union Territory",
+    "area_sq_km": 7054,
+    "population": 1160000
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "name": "mm-states",
+  "version": "1.0.0",
+  "description": "Myanmar states and regions including township with postalcode(mm, en)",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage",
+    "prepublishOnly": "npm run build && npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HtetAung-dev/mm-states.git"
+  },
+  "keywords": [
+    "myanmar",
+    "burma",
+    "states",
+    "townships",
+    "postal codes"
+  ],
+  "author": "Htet Aung @ Louis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HtetAung-dev/mm-states/issues"
+  },
+  "homepage": "https://github.com/HtetAung-dev/mm-states#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.27.2",
+    "@babel/preset-typescript": "^7.27.1",
+    "@types/jest": "^30.0.0",
+    "babel-jest": "^30.0.2",
+    "jest": "^30.0.3",
+    "ts-jest": "^29.4.0",
+    "typescript": "^5.8.3"
+  }
+}
