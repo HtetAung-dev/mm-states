@@ -1,6 +1,6 @@
 # Myanmar Administrative Divisions
 
-[![npm version](https://img.shields.io/npm/v/myanmar-states-townships.svg)](https://www.npmjs.com/package/myanmar-states-townships)
+[![npm version](https://img.shields.io/npm/v/myanmar-states-townships.svg)](https://www.npmjs.com/package/mm-states)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A comprehensive package providing Myanmar's states, regions, and townships data with postal codes.
